@@ -1,7 +1,7 @@
 // ============================================
 // PERSONAL EXPENSE ANALYZER - JavaScript
 // ============================================
-
+//my first project
 // Data Structure: Array to store all expenses
 let expenses = [];
 let monthlyBudget = 0;

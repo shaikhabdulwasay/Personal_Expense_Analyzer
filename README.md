@@ -1,6 +1,6 @@
 # 💰 Personal Expense Analyzer
 
-A comprehensive web-based expense tracking application that helps you monitor, analyze, and manage your daily expenses with beautiful visualizations and smart budgeting features.
+A comprehensive web-based expense tracking application that helps you monitor, analyze, and manage your daily expenses with beautiful visualizations and smart budgeting features. project
 
 ## 📋 Table of Contents
 
