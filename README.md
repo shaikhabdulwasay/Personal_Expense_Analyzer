@@ -1,6 +1,5 @@
 # 💰 Personal Expense Analyzer
-<br>
-You can access the Project **Personal Expense Analyzer** from below link:
+You can access the Project Personal Expense Analyzer from below link:
 <br>
 https://shaikhabdulwasay.github.io/Personal_Expense_Analyzer/
 <br>
@@ -346,5 +345,6 @@ This project is open source and available for educational purposes.
 ---
 
 **Happy Expense Tracking! 💰📊**
+
 
 
